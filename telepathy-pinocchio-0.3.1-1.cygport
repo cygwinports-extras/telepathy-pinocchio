@@ -1,0 +1,5 @@
+inherit distutils
+
+DESCRIPTION="Dumy Telepathy connection manager for testing clients"
+HOMEPAGE="http://telepathy.freedesktop.org/wiki/"
+SRC_URI="http://telepathy.freedesktop.org/releases/${PN}/${P}.tar.gz"
